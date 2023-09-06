@@ -1,2 +1,1 @@
-# TixrWebHooks
-Performing first webhooks api in Linux Bean
+# tixr_webhook
